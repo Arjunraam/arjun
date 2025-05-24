@@ -1,0 +1,12 @@
+
+.Img{
+    width:1265px;
+    height:500px;
+}
+.Head{
+    color:blue;
+}
+.card-text{
+    position:absolute;
+    top:35px;
+}
